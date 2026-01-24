@@ -8,7 +8,8 @@ app_icon = "octicon octicon-file-directory"
 app_color = "grey"
 app_email = "saddam.hassan222@gmail.com"
 app_license = "mit"
-
+has_permission_check = True 
+app_modules = ["Mobile Services"] 
 # Includes in <head>
 # ------------------
 
