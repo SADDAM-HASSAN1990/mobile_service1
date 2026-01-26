@@ -189,3 +189,6 @@ user_data_fields = [
 #	"mobile_services.auth.validate"
 # ]
 
+fixtures = [
+    {"dt": "Print Format", "filters": [["module", "=", "Mobile Service"]]}
+]
