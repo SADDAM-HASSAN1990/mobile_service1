@@ -190,5 +190,9 @@ user_data_fields = [
 # ]
 
 fixtures = [
-    {"dt": "Print Format", "filters": [["module", "=", "Mobile Service"]]}
+    {"dt": "Print Format", "filters": [["module", "=", "Mobile Service"]]},
+    "Custom Field",
+    "Workflow",
+    "Workflow State",
+    "Workflow Action"
 ]

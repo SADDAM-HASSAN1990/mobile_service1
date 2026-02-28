@@ -1,0 +1,107 @@
+[
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Customer Service",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2026-02-28 04:43:54.924469",
+  "name": "ksdu8lr8f4",
+  "permitted_roles": [
+   {
+    "parent": "ksdu8lr8f4",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Customer Service"
+   }
+  ],
+  "reference_doctype": "Delivery Note",
+  "reference_name": "MAT-DN-2026-00002",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Operations Manager",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2026-02-28 04:53:54.707564",
+  "name": "qnrgh66l23",
+  "permitted_roles": [
+   {
+    "parent": "qnrgh66l23",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Operations Manager"
+   }
+  ],
+  "reference_doctype": "Delivery Note",
+  "reference_name": "MAT-DN-2026-00002",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Pending"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Operations Manager",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2026-02-28 04:54:40.999052",
+  "name": "r6agk4crgn",
+  "permitted_roles": [
+   {
+    "parent": "r6agk4crgn",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Operations Manager"
+   }
+  ],
+  "reference_doctype": "Delivery Note",
+  "reference_name": "MAT-DN-2026-00002",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Assigned"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Operations Manager",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2026-02-28 04:55:23.952984",
+  "name": "rjnvr2g5r2",
+  "permitted_roles": [
+   {
+    "parent": "rjnvr2g5r2",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Operations Manager"
+   }
+  ],
+  "reference_doctype": "Delivery Note",
+  "reference_name": "MAT-DN-2026-00002",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "In Transit"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2026-02-28 14:02:47.099459",
+  "name": "sb783od7o8",
+  "permitted_roles": [
+   {
+    "parent": "sb783od7o8",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Customer Service"
+   }
+  ],
+  "reference_doctype": "Delivery Note",
+  "reference_name": "MAT-DN-2026-00003",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "Draft"
+ }
+]
